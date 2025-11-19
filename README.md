@@ -1,3 +1,2 @@
-- 👋 Hi, I am a hobbiest app builder/developer.  I like to experiment with web3 and ai combinations for fun and learning.  I am part of a small dev team at https://thefledge.com/ who are using blockchain in futuristic ways.
-- 📫 How to reach me: @theJeweler.crypto on Discord
+Builder of questionable inventions, teller of accidental truths, and proud owner of at least three unfinished genius ideas. If I disappear, I’m probably in the barn testing something I shouldn’t be.
 
